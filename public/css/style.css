@@ -1,0 +1,22 @@
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.column{
+    background-color: red;
+    width: 30vh;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.column4{
+    background-color: red;
+    width: 50vh;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
